@@ -10,9 +10,10 @@ $result = $stmt->get_result();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>المعهد التقني التجاري-الحصب - التنسيق والقبول</title>
-    <!--<script src="https://cdn.tailwindcss.com"></script>-->
-    <script src="cdn.js"></script>
-    <link rel="stylesheet" href="fontawesome-free-6.6.0-web/css/all.min.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!--<script src="cdn.js"></script>-->
+    <!--<link rel="stylesheet" href="fontawesome-free-6.6.0-web/css/all.min.css">-->
     <script src="jquery-3.4.1.js"></script>
     <script>
         tailwind.config = {
